@@ -22,7 +22,7 @@
 # PLEASE READ UPDATED CONFIGURATION INSTRUCTIONS BEFORE USING THIS
 
 # Save this file as /usr/sbin/update-apacheblocker.sh
-# Make it Executable chmod +x /usr/sbin/updateapacheblocker.sh
+# Make it Executable chmod +x /usr/sbin/update-apacheblocker.sh
 
 # RUN THE UPDATE
 # Here our script runs, pulls the latest update, reloads apache and emails you a notification
